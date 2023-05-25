@@ -1,0 +1,17 @@
+h1 {
+    background-color: azure;
+}
+
+.title {
+    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+}
+
+body {
+    text-align: center;
+}
+
+div {
+    border: solid 2px;
+}
