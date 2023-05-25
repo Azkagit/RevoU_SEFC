@@ -12,6 +12,6 @@ body {
     text-align: center;
 }
 
-div {
-    border: solid 2px;
+button {
+    width: 100%;
 }
