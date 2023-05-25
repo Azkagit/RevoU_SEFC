@@ -12,6 +12,38 @@ body {
     text-align: center;
 }
 
+table {
+    border: solid 1px;
+}
+
 button {
     width: 100%;
+    border: 0;
+    font-weight: bold;
+    margin: 0 0 0 0;
+    border-radius: 2px;
+}
+
+.result {
+    font: white;
+    background-color: green;
+}
+
+.operations {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: white;
 }
