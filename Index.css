@@ -1,5 +1,9 @@
+body {
+    background-color: rgb(167, 253, 253);
+}
+
 h1 {
-    background-color: azure;
+    background-color: rgb(167, 253, 253);
 }
 
 .title {
@@ -15,6 +19,7 @@ body {
 table {
     border: solid 1px;
     text-align: center;
+    width: 100%;
 }
 
 button {
@@ -47,4 +52,24 @@ button {
 .black {
     background-color: black;
     color: white;
+}
+
+
+
+.container {
+    border: solid 2px;
+    border-radius: 5px 5px 5px 5px;
+    margin-bottom: 20px;
+    background-color: white;
+    
+}
+
+h3 {
+    margin-top: 0;
+}
+
+.judul {
+    background-color: deepskyblue;
+    width: 100%;
+    border-radius: 5px 5px 0 0;
 }
